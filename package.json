@@ -1,0 +1,23 @@
+{
+  "name": "autogitbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FUMEI128/gitbook.git"
+  },
+  "author": "fumei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FUMEI128/gitbook/issues"
+  },
+  "homepage": "https://github.com/FUMEI128/gitbook#readme",
+  "keywords": [],
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
