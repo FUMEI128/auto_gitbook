@@ -1,17 +1,17 @@
 {
-  "name": "ls",
+  "name": "autogitbook",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FUMEI128/gitbook.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "fumei",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/FUMEI128/gitbook/issues"
   },
